@@ -6,4 +6,5 @@ Download GTA San Andreas, which is designed by Indian Ocean Roleplay. it is a co
 
 # Credits
 Thanks to Rockstar Games, Rockstar North
+
 Thanks to many unknown developers for providing such patches and mods
