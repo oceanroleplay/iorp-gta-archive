@@ -10,4 +10,4 @@ The repository is only used to store files. We are not the creators of the files
 
 Thanks to Rockstar Games, Rockstar North
 
-Thanks to many unknown developers for providing such patches and mods
+Many thanks to developers who provided such patches and mods
